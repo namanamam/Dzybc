@@ -1,7 +1,7 @@
 # Dzybc
 Dzybcoin memecoinama
 echo "# Dzybc" >> README.md
-git init
+git init 1
 git add README.md
 git commit -m "first commit"
 git branch -M main
