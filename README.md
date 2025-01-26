@@ -2,7 +2,7 @@
 Dzybcoin memecoinama
 echo "# Dzybc" >> README.md
 mkdir images
-mv image.png images/
+mv IMG_2492.png images/
 git add images/IMG_2492.png
 git commit -m "Добавлено изображение в папку images"
 git push
