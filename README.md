@@ -1,7 +1,7 @@
-# Dzybc
+# IDZYB
 Dzybcoin memecoinama
 
-git add images/IMG_2492.png
+git add https://github.com/namanamam/IMG_2492.png
 
 https://github.com/namanamam/Dzybc.git
 
